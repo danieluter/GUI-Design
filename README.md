@@ -38,3 +38,23 @@ before
 
 after
 ![myimage-alt-tag](http://i593.photobucket.com/albums/tt14/LosDaniellos/git/Options_01_zpsacovovnp.png)
+
+
+# List Form - Call Recordings
+before
+
+![myimage-alt-tag](http://i593.photobucket.com/albums/tt14/LosDaniellos/git/Call_recorder_before_zpsx81ypzsj.png)
+
+after
+
+![myimage-alt-tag](http://i593.photobucket.com/albums/tt14/LosDaniellos/git/History_zpsvwgfwn7y.png)
+
+
+#Sign in Form
+before
+
+![myimage-alt-tag](http://i593.photobucket.com/albums/tt14/LosDaniellos/git/Login_before_zpszzjfudxp.png)
+
+after
+
+![myimage-alt-tag](http://i593.photobucket.com/albums/tt14/LosDaniellos/git/Login_zpskuprnc7q.png)
